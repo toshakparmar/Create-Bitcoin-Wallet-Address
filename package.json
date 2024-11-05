@@ -1,0 +1,23 @@
+{
+  "name": "create-bitcoin-wallet-address",
+  "version": "1.0.0",
+  "description": "Here We Create Bitcoin Wallet Address For You @CodeSmachers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Toshak Parmar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bip39": "^3.0.2",
+    "bs58check": "^2.1.2",
+    "create-hash": "^1.2.0",
+    "hdkey": "^2.0.1",
+    "jquery": "^3.5.1",
+    "jsdom": "^16.2.2",
+    "nodemon": "^3.1.7"
+  }
+}
